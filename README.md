@@ -1,4 +1,4 @@
-# mall_elevator_system
+# mall-elevator-system
 a virtual mall elevator system with java threads
 
 Projede gerçekleştirilmesi istenenleri [dökümantasyon dosyasında](https://github.com/J4CKHunter/mall-elevator-system/blob/main/yazlab_1_2.pdf) bulabilirsiniz.
